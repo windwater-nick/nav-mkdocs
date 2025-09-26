@@ -2,7 +2,7 @@
 # 網站名稱，會顯示在瀏覽器標籤和導航列
 site_name: 一個導航站
 # 網站 URL，通常是 GitHub Pages 的位址
-site_url: https://nav-site.windwater.info 
+site_url: http://nav-site.windwater.info 
 # 作者資訊
 #site_author: 
 # 網站描述，用於 SEO
