@@ -1,3 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://nav-site.windwater.info/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://nav-site.windwater.info/fonts/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://nav-site.windwater.info/folder/page02/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://nav-site.windwater.info/folder/page03/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://nav-site.windwater.info/windows_software/2-1_package_manager/package_manager/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://nav-site.windwater.info/windows_software/2-2_runtime_Environments/runtime_Environments/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://nav-site.windwater.info/windows_software/2-3_system/system/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://nav-site.windwater.info/windows_software/2-3_system/2-3-1_system_info/system_info/</loc>
+         <lastmod>2025-09-26</lastmod>
+    </url>
 </urlset>
