@@ -24,11 +24,14 @@
 
 ##  JDK (Java Development Kit)
 
-| 項目 | 下載網址 |
-|:-----:|-----------|
-|Microsoft Build of OpenJDK|[https://www.microsoft.com/openjdk](https://www.microsoft.com/openjdk)|
-|AdoptOpenJDK|[https://adoptopenjdk.net](https://adoptopenjdk.net)|
-|OpenJDK|[https://openjdk.org/](https://openjdk.org
-|Amazon Corretto|[https://aws.amazon.com/corretto](https://aws.amazon.com/corretto)|
-|Azul Zulu|[https://www.azul.com/downloads/zulu/](https://www.azul.com/downloads/zulu/)|
-|BellSoft Liberica|[https://bell-sw.com/java.html](https://bell-sw.com/java.html)|
+| 項目                           | 基本簡介 | 官網/下載地址 |
+|--------------------------------|----------|--------------|
+| **AdoptOpenJDK**               | 開源、社群支持的 JDK 發行版，提供多平台支持，兼容 Oracle JDK。 | [Adoptium](https://adoptium.net/) |
+| Amazon Corretto                | Amazon 提供的免費、開源 JDK，優化雲端應用並提供長期支持。 | [Amazon Corretto](https://aws.amazon.com/corretto/) |
+| Azul Zulu                      | Azul 提供的開源 JDK，支持多平台，並且針對性能進行了優化，提供商業支持。 | [Azul Zulu](https://www.azul.com/downloads/zulu/) |
+| BellSoft Liberica              | BellSoft 提供的 JDK，支持 JavaFX 和 Docker 容器，針對雲端和微服務應用進行了優化。 | [BellSoft Liberica](https://bell-sw.com/pages/downloads/#jdk-21-lts) |
+| IBM JDK                        | IBM 提供的基於 OpenJDK 的 JDK，專為企業級應用進行了性能優化，支持大規模系統。 | [IBM JDK](https://www.ibm.com/developerworks/java/jdk) |
+| **Microsoft Build of OpenJDK** | Microsoft 提供的官方 JDK 版本，專為 Windows 用戶提供支持。 | [Microsoft OpenJDK](https://www.microsoft.com/openjdk) |
+| **OpenJDK**                    | Java 的官方開源版本，是 Java 標準實現，開源且由社群和 Oracle 維護。 | [OpenJDK](https://openjdk.java.net/) |
+| Red Hat OpenJDK                | Red Hat 提供的基於 OpenJDK 的發行版，專為企業級環境提供長期支持。 | [Red Hat OpenJDK](https://developers.redhat.com/products/openjdk/overview) |
+| SapMachine                     | SAP 提供的 OpenJDK 發行版，專為 SAP 生態系統中的應用提供支持。 | [SapMachine](https://sap.github.io/SapMachine/) |
